@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+.venv/
+node_modules/
+frontend/build/
+*.egg-info/
+dist/
+.DS_Store
+*.ipynb_checkpoints/
+data/figures/
+models/*.pkl
