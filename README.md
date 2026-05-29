@@ -171,5 +171,3 @@ Backend can be deployed free on **Render** or **Railway** — update `REACT_APP_
 - Lau & Dill (1989). A lattice statistical mechanics model of the conformational and sequence spaces of proteins. *Macromolecules.*
 
 ---
-
-*Built as part of an MSc Bioinformatics / Computational Biology curriculum project.*
